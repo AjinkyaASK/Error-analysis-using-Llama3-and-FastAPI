@@ -19,7 +19,7 @@ PROMPT_MESSAGE = """
     
     I want your response as a pure JSON, in following format:
     
-    {"cause":"","impact":["",""],"fix":["",""]}
+    {"cause":["",""],"impact":["",""],"fix":["",""]}
     
     Make sure apart from above JSON, no other text is present in your response.
     """
